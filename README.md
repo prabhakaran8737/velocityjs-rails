@@ -1,23 +1,23 @@
 velocityjs-rails
 ================
 
-Installation
+<h3>Installation</h3>
 
 Add this line to your application's Gemfile:
 
-gem 'velocityjs-rails'
+<pre><code>gem 'velocityjs-rails'</code></pre>
 
 And then execute
 
-bundle install
+<pre><code>bundle install</code></pre>
 
 Or install it yourself as 
 
-gem install velocityjs-rails
+<pre><code>gem install velocityjs-rails</code></pre>
 
 Usage
 
 In application.js add
 
-//= require velocity
+<pre><code>//= require velocity</code></pre>
 
