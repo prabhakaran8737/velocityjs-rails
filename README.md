@@ -11,7 +11,7 @@ And then execute
 
 <pre><code>bundle install</code></pre>
 
-Or install it yourself as 
+Or install it yourself as
 
 <pre><code>gem install velocityjs-rails</code></pre>
 
@@ -20,4 +20,5 @@ Usage
 In application.js add
 
 <pre><code>//= require velocity</code></pre>
+<pre><code>//= require velocity-ui</code></pre>
 
